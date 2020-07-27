@@ -3643,8 +3643,8 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		border-top: 0;
-		min-height: 100vh;
-		height: 100vh !important;
+		min-height: 80vh;
+		height: 80vh !important;
 		position: relative;
 		text-align: center;
 		overflow: hidden;
@@ -3683,7 +3683,7 @@
 			bottom: 50%;
 			right: 50%;
 			width: auto;
-			height: 80%;
+			height: auto;
 			min-width: 100%;
 			min-height: 100%;
 			overflow: hidden;
