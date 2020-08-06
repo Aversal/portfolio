@@ -3780,6 +3780,7 @@
 		#footer > .inner {
 			margin: 0 auto;
 			width: 80em;
+			text-align: center;
 		}
 
 		#footer .copyright {
