@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<!--
+	Broadcast by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Jaakko Ylimäki - Work history</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html">Back to main page</a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="elements.html">Elements</a></li>
+          <li><a href="About me.html">About me</a></li>
+          <li><a href="Work history.html">Work history</a></li>
+          <li><a href="Projects.html">Projects</a></li>
+          <li><a href="Split Seconds.html">Split Seconds</a></li>
+				</ul>
+			</nav>
+
+		<!-- Main -->
+			<div id="main">
+
+			<!-- One -->
+				<section class="wrapper style1">
+					<div class="inner">
+						<header class="align-center">
+							<h2>About me</h2>
+							<p></p>
+						</header>
+
+						<p>(Text here)</p>
+						<p>(And here)</p>
+					</div>
+				</section>
+
+			<!-- Three -->
+				<section class="wrapper ">
+					<div class="inner">
+						<header>
+							<h2>Jack of Some Trades</h2>
+							<p>I'm a game development student with a passion for game design, level design, animation and sound design. I also have some proficiency in graphical arts, composing for games and working as a team lead.<br>
+							<br>
+							Currently I am enrolled in the Kajaani University of Applied Sciences in Finland, and I'm looking for internship opportunities. I can work in any of the roles mentioned above, or even take on new ones if need be. I'm willing to work more or less anywhere in Europe, so don't hesistate to contact me if you'd like to have an intern who won't disappoint you!</p>
+						</header>
+	<!-- 3 Column Video Section -->
+							<div class="flex flex-3">
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/kajak.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										About me
+									</p>
+									<a href="About me.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/pic10.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Work history
+									</p>
+									<a href="Work history.html" class="link"><span>Click Me</span></a>
+								</div>
+								<div class="video col">
+									<div class="image fit">
+										<img src="images/pic11.jpg" alt="" />
+										<div class="arrow">
+											<div class="icon fa-play"></div>
+										</div>
+									</div>
+									<p class="caption">
+										Projects
+									</p>
+									<a href="generic.html" class="link"><span>Click Me</span></a>
+								</div>
+							</div>
+					</div>
+				</section>
+
+			</div>
+		
+		
+		
+		
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="copyright">
+					<a href="#">Back to top</a>
+					</br>
+					</br>
+					&copy; Jaakko Ylimäki.  "Broadcast" website template by <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Coverr</a>.
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
