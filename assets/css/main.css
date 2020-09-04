@@ -1689,6 +1689,7 @@
 
 	h3 {
 		font-size: 1.75em;
+		text-align: center;
 	}
 
 		@media screen and (max-width: 736px) {
