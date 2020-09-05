@@ -1688,14 +1688,14 @@
 		}
 
 	h3 {
-		font-size: 3.0em;
+		font-size: 1.75em;
 		text-align: center;
 	}
 
 		@media screen and (max-width: 736px) {
 
 			h3 {
-				font-size: 4.0em;
+				font-size: 1.75em;
 			}
 
 		}
@@ -1703,7 +1703,7 @@
 		@media screen and (max-width: 480px) {
 
 			h3 {
-				font-size: 5.0em;
+				font-size: 1.75em;
 			}
 
 		}
