@@ -2446,11 +2446,12 @@
 
 		.video-wrapper iframe, .video-wrapper object, .video-wrapper embed {
 			position: absolute;
-			margin: auto;
-			top: 0;
-			left: 0;
+    			margin: auto;
+    			top: 50%;
+   		 	left: 50%;
 			width: 75%;
-			height: 75%;
+   			height: 75%;
+   			transform: translate(-50%, -50%);
 		}
 
 /* List */
