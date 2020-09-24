@@ -61,7 +61,7 @@
 
 		@media screen and (max-width: 736px) {
 
-			yt {
+			.yt {
 				width: 75%;
 				height: 75%;
 			}
@@ -70,7 +70,7 @@
 
 		@media screen and (max-width: 480px) {
 
-			yt {
+			.yt {
 				width: 75%;
 				height: 75%;
 			}
