@@ -3666,16 +3666,6 @@
 				/* Adjusts for spacing */
 		}
 
-				.video .image .arrow .icon {
-					-moz-transition: color 1s ease-in-out;
-					-webkit-transition: color 1s ease-in-out;
-					-ms-transition: color 1s ease-in-out;
-					transition: color 1s ease-in-out;
-					display: inline-block;
-					vertical-align: middle;
-					font-size: 3em;
-					color: rgba(255, 255, 255, 0.5);
-				}
 
 		.video .caption {
 			color: #c0c5c9;
