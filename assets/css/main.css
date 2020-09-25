@@ -62,8 +62,9 @@
 		@media screen and (max-width: 736px) {
 
 			.yt {
-				width: 75%;
-				height: 75%;
+				margin: auto;
+				width: 50%;
+				height: 50%;
 			}
 
 		}
@@ -71,8 +72,9 @@
 		@media screen and (max-width: 480px) {
 
 			.yt {
-				width: 75%;
-				height: 75%;
+				margin: auto;
+				width: 50%;
+				height: 50%;
 			}
 
 		}
